@@ -1,7 +1,10 @@
-pandas==1.3.5
-yfinance==0.1.70
-SQLAlchemy==1.4.27
-scikit-learn==1.0.2
-numpy==1.21.4
-tensorflow==2.7.0
-keras==2.7.0
+pandas
+yfinance
+numpy
+scikit-learn
+tensorflow  # Keras est maintenant inclus dans TensorFlow
+matplotlib
+openpyxl
+
+#pip install -r requirements.txt
+#pour installer les packages qui appellent dans le fichier 'stockprediction.ipynb'
