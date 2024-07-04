@@ -1,4 +1,4 @@
-# ProjetTuteure_DataScience
+# Reseaux Neurones : Simulation Trading sur SP500
 
 
 ## Projet de Simulation de Trading avec Réseaux de Neurones LSTM
